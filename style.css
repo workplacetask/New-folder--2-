@@ -1,0 +1,67 @@
+
+.body{
+    height: 100vh;
+    font-size: 1rem;
+}
+
+.page-header-gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,66,3,1) 35%, rgba(0,212,255,1) 100%);
+    margin-top: 2rem;
+   font-size: 1rem;
+color: white;
+}
+.header img{
+    width: 50%;
+    height: 30vh;
+}
+
+.features-gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,66,3,1) 35%, rgba(0,212,255,1) 100%);
+    margin-top: 2rem;
+   font-size: 1rem;
+color: white;
+}
+.features-gradient img{
+    width: 50%;
+    height: 50vh;
+}
+
+
+.features-gradient ul{
+    padding-left:2rem ;
+    list-style-type: none;
+}
+.features-gradient ul li{
+    padding-left: 2rem;
+    line-height: 1rem;
+    margin-bottom: 1rem ;
+}
+.gallery{
+    background-color: whitesmoke;
+}
+.gallery img{
+    border-radius: 5%;
+}
+
+.serives-gradient{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,66,3,1) 35%, rgba(0,212,255,1) 100%);
+    color: white;
+    padding-top: 3rem;
+
+}
+.serives-gradient img{
+    width: 60%;
+    height: 50vh;
+}
+.gradient{
+    color: white;
+    font-size:irem ;
+    margin:0 ;
+    padding:1rem ;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,66,3,1) 35%, rgba(0,212,255,1) 100%);
+    
+}
